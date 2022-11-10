@@ -1,7 +1,5 @@
 # Real Time Tracking
 
-In this project, we use the GMM(Gaussian Mixture Models) method for background subtraction and compare it with the inbuilt opencv MoG method. The background subtraction find its applications in real-time tracking.
-
 ## Table of contents
 * [Problem Statement](#problem-statement)
 * [Dataset](#dataset)
